@@ -3,8 +3,8 @@ from sklearn.neighbors import KDTree
 from matplotlib import pyplot as plt
 
 # Define the number of cities
-num_cities = 1
-0
+num_cities = 10
+
 # Generate the coordinates of the cities
 cities = np.random.rand(num_cities, 2)
 
